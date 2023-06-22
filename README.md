@@ -1,1 +1,2 @@
-# Tambola-Stage-1
+# Project-solution-204
+Tambola game stage-1
